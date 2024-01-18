@@ -1,0 +1,1 @@
+g++ -o program main.cpp Imaginary.cpp Matrix.cpp Complex.cpp Vector.cpp IdentityMatrix.cpp SquareMatrix.cpp TriangleMatrix.cpp
